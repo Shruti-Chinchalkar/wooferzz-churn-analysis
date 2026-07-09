@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (too large for GitHub)
+*.csv
+*.xlsx
+
+# Power BI (too large)
+*.pbix
+
+# Database
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
